@@ -1,0 +1,11 @@
+.navbar {
+    height: 60px;
+}
+
+.navbar .navbar-collapse {
+    background: #f8f9fa;
+    margin-right: -1.5rem;
+    margin-left: -1.5rem;
+    text-align: left;
+    padding: 0 1.5rem;
+}
